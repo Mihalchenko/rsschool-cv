@@ -3,4 +3,6 @@ footer {
 }
 body {
     text-align: center;
+    border: 2px double black;
+    background: #FFFAFA;
 }
