@@ -3,6 +3,7 @@ footer {
 }
 body {
     text-align: center;
+    margin: auto;
     border: 2px double black;
     background: #FFFAFA;
 }
