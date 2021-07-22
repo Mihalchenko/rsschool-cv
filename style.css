@@ -1,0 +1,30 @@
+footer {
+    font-style: italic;
+}
+body {
+    text-align: center;
+    margin: auto;
+    border: 2px double black;
+    background: #FFFAFA;
+}
+#avatar {
+    margin: 5px;
+    width: 14em;
+    border-radius: 50%;
+    border-width: thin;
+    border-style: groove;
+    border-color: cornflowerblue;
+}
+li {
+    list-style-type: none;
+   }
+ul {
+    margin-left: 0;
+    padding-left: 0;
+   }
+   .example {
+       background-color: #DCDCDC;
+   }
+   .bg {
+       background-color:#F0FFFF;
+   }
