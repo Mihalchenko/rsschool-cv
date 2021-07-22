@@ -27,4 +27,8 @@ ul {
    }
    .bg {
        background-color:#F0FFFF;
+       border-bottom: 2px solid black;
+   }
+   .brdtop {
+       border-top: 2px solid black;
    }
